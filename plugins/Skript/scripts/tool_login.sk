@@ -1,0 +1,18 @@
+#!──────────────────────────────────────────────────────────────────────────────────────────────────
+#!		THIS FILE WAS CREATED BY SK_AUTORELOAD (SKAR) THE HELPER FOR A BETTER WORKFLOW
+#!──────────────────────────────────────────────────────────────────────────────────────────────────
+
+define new bot named "Real_Bot_Name":
+	token: TOKEN_HERE
+	intents: default intents
+	policy: all
+	auto reconnect: true
+	compression: none
+
+
+
+#!────────────────────────────────────────────────────────────────────────────────┐
+#!───────────────────────────────[IMPORTANT]──────────────────────────────────────┤
+#!────────────────────────────────────────────────────────────────────────────────┘
+
+#! // Do not add code in this file change only the name and the token
